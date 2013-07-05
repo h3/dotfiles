@@ -7,3 +7,24 @@
 [submodule "bundle/pep8"]
 	path = bundle/pep8
 	url = https://github.com/jbking/vim-pep8.git
+[submodule "bundle/python_pep8"]
+	path = bundle/python_pep8
+	url = https://github.com/jbking/vim-pep8.git
+[submodule "bundle/python_pyflakes"]
+	path = bundle/python_pyflakes
+	url = https://github.com/kevinw/pyflakes-vim.git
+[submodule "bundle/powerline"]
+	path = bundle/powerline
+	url = https://github.com/Lokaltog/vim-powerline.git
+[submodule "bundle/ctrlp"]
+	path = bundle/ctrlp
+	url = https://github.com/kien/ctrlp.vim.git
+[submodule "bundle/gundo"]
+	path = bundle/gundo
+	url = https://github.com/sjl/gundo.vim.git
+[submodule "bundle/numbers"]
+	path = bundle/numbers
+	url = https://github.com/myusuf3/numbers.vim.git
+[submodule "bundle/python_mode"]
+	path = bundle/python_mode
+	url = https://github.com/klen/python-mode.git
