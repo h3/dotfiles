@@ -28,3 +28,6 @@
 [submodule "bundle/python_mode"]
 	path = bundle/python_mode
 	url = https://github.com/klen/python-mode.git
+[submodule "bundle/haml"]
+	path = bundle/haml
+	url = https://github.com/tpope/vim-haml.git
