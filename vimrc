@@ -1,1 +1,0 @@
-/home/h3/Ubuntu One/Vim/.vimrc

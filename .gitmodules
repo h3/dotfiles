@@ -1,18 +1,6 @@
 [submodule "bundle/fugitive"]
 	path = bundle/fugitive
 	url = http://github.com/tpope/vim-fugitive.git
-[submodule "bundle/nerdtree"]
-	path = bundle/nerdtree
-	url = https://github.com/scrooloose/nerdtree.git
-[submodule "bundle/pep8"]
-	path = bundle/pep8
-	url = https://github.com/jbking/vim-pep8.git
-[submodule "bundle/python_pep8"]
-	path = bundle/python_pep8
-	url = https://github.com/jbking/vim-pep8.git
-[submodule "bundle/python_pyflakes"]
-	path = bundle/python_pyflakes
-	url = https://github.com/kevinw/pyflakes-vim.git
 [submodule "bundle/powerline"]
 	path = bundle/powerline
 	url = https://github.com/Lokaltog/vim-powerline.git
@@ -31,3 +19,21 @@
 [submodule "bundle/less"]
 	path = bundle/less
 	url = https://github.com/groenewege/vim-less.git
+[submodule "bundle/surround"]
+	path = bundle/surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "bundle/showmarks"]
+	path = bundle/showmarks
+	url = https://github.com/vimez/vim-showmarks.git
+[submodule "bundle/abolish"]
+	path = bundle/abolish
+	url = https://github.com/tpope/vim-abolish.git
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "bundle/salt"]
+	path = bundle/salt
+	url = https://github.com/saltstack/salt-vim.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
