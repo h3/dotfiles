@@ -54,6 +54,8 @@ set shiftwidth=4
 set smartindent
 set cinoptions+=(0
 set et
+set smartindent
+set cindent
 
 " Long lines wrap at white spaces
 set linebreak
@@ -253,11 +255,14 @@ set noerrorbells
 " Hide the mouse pointer while typing
 set mousehide
 
-command NERDTree nt
+" command NERDTree nt
+" let NERDTreeIgnore = ['\.pyc$']
 
 " if has("gui_running")
 "     set clipboard=unnamed
 " endif
+
+" let g:nerdtree_tabs_open_on_gui_startup = 0
 
 au BufNewFile,BufRead *.less set filetype=less
 
@@ -276,6 +281,9 @@ set encoding=utf-8 " Necessary to show Unicode glyphs
 
 let g:pymode_rope_autocomplete_map = '<C-L>'
 
+
+
 " Fuck, all HTML is Django"
 au BufRead,BufNewFile *.html	set filetype=htmldjango
 au BufRead,BufNewFile *.sls	    set filetype=sls
+
